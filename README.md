@@ -14,6 +14,7 @@
 
 ---
 
+<!-- ========== ABOUT ME ========== -->
 ## 👨‍💻 About Me
 
 - ⚛️ **Stack:** React.js, Node.js, Express.js, MongoDB, REST APIs
@@ -23,6 +24,7 @@
 
 ---
 
+<!-- ========== TECH STACK ========== -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -47,19 +49,24 @@
 
 ---
 
+<!-- ========== GITHUB STATS (each card on its own row, all the same width) ========== -->
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="495" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=quazi-saad&show_icons=true&include_all_commits=true&rank_icon=github&card_width=495&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=2c5364&border_radius=10" />
+</p>
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=quazi-saad&theme=dark&hide_border=true&show_icons=true&cache_seconds=1800" />
-<img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quazi-saad&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+<p align="center">
+  <img width="495" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quazi-saad&layout=compact&langs_count=8&card_width=495&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=2c5364&border_radius=10" />
+</p>
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=quazi-saad&theme=dark&hide_border=true" />
-
-</div>
+<p align="center">
+  <img width="495" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=quazi-saad&background=0d1117&border=2c5364&ring=58a6ff&fire=ff7b00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=2c5364&border_radius=10" />
+</p>
 
 ---
 
+<!-- ========== CONTACT ========== -->
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -71,6 +78,7 @@
 
 ---
 
+<!-- ========== FOOTER ========== -->
 <div align="center">
 
 ![Thanks for visiting](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&fontAlignY=35)
