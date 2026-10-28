@@ -1,9 +1,9 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I%27m%20Quazi%20Saad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passionate%20Web%20Developer%20%7C%20Building%20with%20MERN%20%7C%20Always%20Learning&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I%27m%20Quazi%20Saad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passionate%20Web%20Developer%20%7C%20Always%20Learning&descAlignY=58&descSize=16)
 
-[![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi,+my+name+is+Quazi+Saad;Passionate+Web+Developer;Building+with+the+MERN+stack;Always+learning+something+new)](https://github.com/quazi-saad)
+[![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi,+my+name+is+Quazi+Saad;Passionate+Web+Developer;Always+learning+something+new)](https://github.com/quazi-saad)
 
 <!-- Badges -->
 [![Profile Views](https://hits.sh/github.com/quazi-saad.svg?style=flat-square&label=Profile%20Views&color=0e75b6)](https://hits.sh/github.com/quazi-saad/)
@@ -17,8 +17,11 @@
 <!-- ========== ABOUT ME ========== -->
 ## 👨‍💻 About Me
 
-- ⚛️ **Stack:** React.js, Node.js, Express.js, MongoDB, REST APIs
-- 🌱 **Currently learning:** Next.js, TypeScript, Advanced Node.js, Cloud
+- 💻 **Languages:** JavaScript, TypeScript, Python, C++, PHP
+- 🎨 **Frontend:** HTML5, CSS3, React.js, Next.js, WordPress
+- ⚙️ **Backend & Databases:** Node.js, Django, MongoDB, MySQL, REST APIs
+- 🧰 **Tools:** Git, GitHub, VS Code, Figma
+- 🌱 **Currently learning:** Advanced Next.js, TypeScript, Advanced Node.js, Cloud
 - 🆘 **Need help with:** Backend & System Design
 - 🤝 **Open to collaborate on:** Web Dev & Open Source
 
@@ -39,7 +42,7 @@
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark "Node.js") ![Express.js](https://skillicons.dev/icons?i=express&theme=dark "Express.js") ![Django](https://skillicons.dev/icons?i=django&theme=dark "Django") ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark "MongoDB") ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark "MySQL")
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark "Node.js") ![Django](https://skillicons.dev/icons?i=django&theme=dark "Django") ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark "MongoDB") ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark "MySQL")
 
 **Tools**
 
