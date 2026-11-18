@@ -1,8 +1,6 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I%27m%20Quazi%20Saad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passionate%20Web%20Developer%20%7C%20Always%20Learning&descAlignY=58&descSize=16)
-
 [![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi,+my+name+is+Quazi+Saad;Passionate+Web+Developer;Always+learning+something+new)](https://github.com/quazi-saad)
 
 <!-- Badges -->
@@ -75,7 +73,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quazi-saad/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quazisaad03@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad.quazi03@gmail.com)
 
 </div>
 
