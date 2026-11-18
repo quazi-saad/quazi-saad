@@ -109,7 +109,7 @@
 <div align="center">
 
 <p>
-<a href="https://www.linkedin.com/in/quazi-saad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/quazi-saad/" target="_blank" rel="noopener noreferrer">><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:saad.quazi03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 </p>
 
