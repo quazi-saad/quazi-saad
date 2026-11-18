@@ -1,87 +1,130 @@
+<!DOCTYPE html>
+<html lang="en" style="background:#0d1117;">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="margin:0 auto;max-width:888px;padding:32px 24px 48px;background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;">
+
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-[![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi,+my+name+is+Quazi+Saad;Passionate+Web+Developer;Always+learning+something+new)](https://github.com/quazi-saad)
+<p>
+<a href="https://github.com/quazi-saad"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hi,+my+name+is+Quazi+Saad;Passionate+Web+Developer;Always+learning+something+new" alt="Typing animation"></a>
+</p>
 
 <!-- Badges -->
-[![Profile Views](https://hits.sh/github.com/quazi-saad.svg?style=flat-square&label=Profile%20Views&color=0e75b6)](https://hits.sh/github.com/quazi-saad/)
-[![Followers](https://img.shields.io/github/followers/quazi-saad?label=Followers&style=flat-square&logo=github&color=2c5364)](https://github.com/quazi-saad?tab=followers)
-[![Stars](https://img.shields.io/github/stars/quazi-saad?label=Stars&style=flat-square&logo=github&color=2c5364)](https://github.com/quazi-saad?tab=stars)
+<p>
+<a href="https://hits.sh/github.com/quazi-saad/"><img src="https://hits.sh/github.com/quazi-saad.svg?style=flat-square&amp;label=Profile%20Views&amp;color=0e75b6" alt="Profile Views"></a>
+<a href="https://github.com/quazi-saad?tab=followers"><img src="https://img.shields.io/github/followers/quazi-saad?label=Followers&amp;style=flat-square&amp;logo=github&amp;color=2c5364" alt="Followers"></a>
+<a href="https://github.com/quazi-saad?tab=stars"><img src="https://img.shields.io/github/stars/quazi-saad?label=Stars&amp;style=flat-square&amp;logo=github&amp;color=2c5364" alt="Stars"></a>
+</p>
 
 </div>
 
----
+<hr style="height:0.25em;margin:24px 0;padding:0;background-color:#21262d;border:0;">
 
 <!-- ========== ABOUT ME ========== -->
-## 👨‍💻 About Me
+<h2 style="margin:24px 0 16px;padding-bottom:0.3em;font-size:1.5em;font-weight:600;line-height:1.25;border-bottom:1px solid #21262d;">👨‍💻 About Me</h2>
 
-- 💻 **Languages:** JavaScript, TypeScript, Python, C++, PHP
-- 🎨 **Frontend:** HTML5, CSS3, React.js, Next.js, WordPress
-- ⚙️ **Backend & Databases:** Node.js, Django, MongoDB, MySQL, REST APIs
-- 🧰 **Tools:** Git, GitHub, VS Code, Figma
-- 🌱 **Currently learning:** Advanced Next.js, TypeScript, Advanced Node.js, Cloud
-- 🆘 **Need help with:** Backend & System Design
-- 🤝 **Open to collaborate on:** Web Dev & Open Source
+<ul>
+  <li>💻 <strong>Languages:</strong> JavaScript, TypeScript, Python, C++, PHP</li>
+  <li>🎨 <strong>Frontend:</strong> HTML5, CSS3, React.js, Next.js, WordPress</li>
+  <li>⚙️ <strong>Backend &amp; Databases:</strong> Node.js, Django, MongoDB, MySQL, REST APIs</li>
+  <li>🧰 <strong>Tools:</strong> Git, GitHub, VS Code, Figma</li>
+  <li>🌱 <strong>Currently learning:</strong> Advanced Next.js, TypeScript, Advanced Node.js, Cloud</li>
+  <li>🆘 <strong>Need help with:</strong> Backend &amp; System Design</li>
+  <li>🤝 <strong>Open to collaborate on:</strong> Web Dev &amp; Open Source</li>
+</ul>
 
----
+<hr style="height:0.25em;margin:24px 0;padding:0;background-color:#21262d;border:0;">
 
 <!-- ========== TECH STACK ========== -->
-## 🛠️ Tech Stack
+<h2 style="margin:24px 0 16px;padding-bottom:0.3em;font-size:1.5em;font-weight:600;line-height:1.25;border-bottom:1px solid #21262d;">🛠️ Tech Stack</h2>
 
 <div align="center">
 
-**Languages**
+<p><strong>Languages</strong></p>
 
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark "JavaScript") ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark "TypeScript") ![Python](https://skillicons.dev/icons?i=py&theme=dark "Python") ![C++](https://skillicons.dev/icons?i=cpp&theme=dark "C++") ![PHP](https://skillicons.dev/icons?i=php&theme=dark "PHP")
+<p>
+<img src="https://skillicons.dev/icons?i=js&amp;theme=dark" alt="JavaScript" title="JavaScript">
+<img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" alt="TypeScript" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=py&amp;theme=dark" alt="Python" title="Python">
+<img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" alt="C++" title="C++">
+<img src="https://skillicons.dev/icons?i=php&amp;theme=dark" alt="PHP" title="PHP">
+</p>
 
-**Frontend**
+<p><strong>Frontend</strong></p>
 
-![HTML5](https://skillicons.dev/icons?i=html&theme=dark "HTML5") ![CSS3](https://skillicons.dev/icons?i=css&theme=dark "CSS3") ![React](https://skillicons.dev/icons?i=react&theme=dark "React") ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark "Next.js") ![WordPress](https://skillicons.dev/icons?i=wordpress&theme=dark "WordPress")
+<p>
+<img src="https://skillicons.dev/icons?i=html&amp;theme=dark" alt="HTML5" title="HTML5">
+<img src="https://skillicons.dev/icons?i=css&amp;theme=dark" alt="CSS3" title="CSS3">
+<img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" title="React">
+<img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" alt="Next.js" title="Next.js">
+<img src="https://skillicons.dev/icons?i=wordpress&amp;theme=dark" alt="WordPress" title="WordPress">
+</p>
 
-**Backend & Databases**
+<p><strong>Backend &amp; Databases</strong></p>
 
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark "Node.js") ![Django](https://skillicons.dev/icons?i=django&theme=dark "Django") ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark "MongoDB") ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark "MySQL")
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" alt="Node.js" title="Node.js">
+<img src="https://skillicons.dev/icons?i=django&amp;theme=dark" alt="Django" title="Django">
+<img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" alt="MongoDB" title="MongoDB">
+<img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" alt="MySQL" title="MySQL">
+</p>
 
-**Tools**
+<p><strong>Tools</strong></p>
 
-![Git](https://skillicons.dev/icons?i=git&theme=dark "Git") ![GitHub](https://skillicons.dev/icons?i=github&theme=dark "GitHub") ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark "VS Code") ![Figma](https://skillicons.dev/icons?i=figma&theme=dark "Figma")
+<p>
+<img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" title="Git">
+<img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" title="GitHub">
+<img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" alt="VS Code" title="VS Code">
+<img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Figma" title="Figma">
+</p>
 
 </div>
 
----
+<hr style="height:0.25em;margin:24px 0;padding:0;background-color:#21262d;border:0;">
 
 <!-- ========== GITHUB STATS (each card on its own row, all the same width) ========== -->
-## 📊 GitHub Stats
+<h2 style="margin:24px 0 16px;padding-bottom:0.3em;font-size:1.5em;font-weight:600;line-height:1.25;border-bottom:1px solid #21262d;">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="495" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=quazi-saad&show_icons=true&include_all_commits=true&rank_icon=github&card_width=495&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=2c5364&border_radius=10" />
+  <img width="495" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=quazi-saad&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;card_width=495&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=2c5364&amp;border_radius=10">
 </p>
 
 <p align="center">
-  <img width="495" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quazi-saad&layout=compact&langs_count=8&card_width=495&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=2c5364&border_radius=10" />
+  <img width="495" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quazi-saad&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=2c5364&amp;border_radius=10">
 </p>
 
 <p align="center">
-  <img width="495" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=quazi-saad&background=0d1117&border=2c5364&ring=58a6ff&fire=ff7b00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=2c5364&border_radius=10" />
+  <img width="495" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=quazi-saad&amp;background=0d1117&amp;border=2c5364&amp;ring=58a6ff&amp;fire=ff7b00&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;dates=8b949e&amp;stroke=2c5364&amp;border_radius=10">
 </p>
 
----
+<hr style="height:0.25em;margin:24px 0;padding:0;background-color:#21262d;border:0;">
 
 <!-- ========== CONTACT ========== -->
-## 🌐 Let's Connect
+<h2 style="margin:24px 0 16px;padding-bottom:0.3em;font-size:1.5em;font-weight:600;line-height:1.25;border-bottom:1px solid #21262d;">🌐 Let's Connect</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quazi-saad/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad.quazi03@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/quazi-saad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:saad.quazi03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+</p>
 
 </div>
 
----
+<hr style="height:0.25em;margin:24px 0;padding:0;background-color:#21262d;border:0;">
 
 <!-- ========== FOOTER ========== -->
 <div align="center">
 
-![Thanks for visiting](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&fontAlignY=35)
+<p>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=100&amp;section=footer&amp;text=Thanks%20for%20visiting!&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlignY=35" alt="Thanks for visiting">
+</p>
 
 </div>
+
+</body>
+</html>
